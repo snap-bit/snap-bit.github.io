@@ -1,0 +1,32 @@
+# Site
+name: "snap:bit"
+title: "snap:bit"
+description: "Combine micro:bit with Snap Circuits"
+meta_description: "Combine micro:bit with Snap Circuits."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: '/'
+email: 'kaloyan@raev.name'
+# TODO
+#google_analytics: ''
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+        
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge
