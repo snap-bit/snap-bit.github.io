@@ -15,4 +15,4 @@ Having a bunch of wires around was quite confusing for our little kids. So Daddy
 
 The "Wow! It works!" effect on our kids and the simple way of connecting the micro:bit with the Snap Circuits guaranteed more new hours of excitement in learning with fun.
 
-Starting a small family business is a new endevour for our family -- the one of enterpreneurship. We hope that snap:bit will bring as much joy in learning to many other families as it has done to us.
+Starting a small family business is a new adventure for our family -- the one of enterpreneurship. We hope that snap:bit will bring as much joy in learning to many other families as it has done to us.
