@@ -1,22 +1,18 @@
 ---
 layout: page
-title: About
-comments: true
+title: Meet the snap:bit creators
 ---
 
-This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+The snap:bit module is created by a family of software engineers from Bulgaria.
 
-**License & Download**
+![our family]({{site.baseurl}}/assets/images/family.png)
 
-"Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
+The idea of creating snap:bit sparked to [Daddy Kaloyan](https://www.linkedin.com/in/kaloyanraev/) and [Mummy Reni](https://www.linkedin.com/in/irena-stambolieva-aa2b022/) while playing with their smart and lovely kids Plami and Marin. We enjoyed learning together about electricity and electronics with the Snap Circuits educational kit, and software programming with the BBC micro:bit. One day our kids asked if we can make the micro:bit control the Snap Circuits. And here we go -- we quickly assembled a project with the help of a few cables with aligator clips.
 
-<a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a>
+Having a bunch of wires around was quite confusing for our little kids. So Daddy Kaloyan took his toolbox out and after a few days hand crafted the prototype of the snap:bit module.
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
+![the snap:bit]({{site.baseurl}}/assets/images/prototype.jpg)
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
+The "Wow! It works!" effect on our kids and the simple way of connecting the micro:bit with the Snap Circuits guaranteed more new hours of excitement in learning with fun.
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
-
+Starting a small family business is a new endevour for our family -- the one of enterpreneurship. We hope that snap:bit will bring as much joy in learning to many other families as it has done to us.
