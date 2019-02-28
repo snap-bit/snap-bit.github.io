@@ -1,8 +1,8 @@
 # Site
 name: "snap:bit"
 title: "snap:bit"
-description: "Combine micro:bit with Snap Circuits"
-meta_description: "Combine micro:bit with Snap Circuits."
+description: "Combine BBC micro:bit with Snap Circuits"
+meta_description: "Combine BBC micro:bit with Snap Circuits."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
