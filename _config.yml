@@ -6,7 +6,7 @@ meta_description: "Combine BBC micro:bit with Snap Circuits."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/'
+baseurl: ''
 email: 'kaloyan@raev.name'
 # TODO
 #google_analytics: ''
