@@ -14,6 +14,7 @@ email: 'kaloyan@raev.name'
 collections:
   projects:
     output: true
+    permalink: /:collection/:title.html
 
 # Plugins
 plugins: 

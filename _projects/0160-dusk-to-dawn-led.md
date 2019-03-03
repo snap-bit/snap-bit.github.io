@@ -3,6 +3,7 @@ layout: project
 title: Dusk to dawn LED
 description: Some short description about this project.
 category: project
+slug: dusk-to-dawn-led
 diagram: power-microbit
 requires: microbit, snapbit, B1, S1, 3-wire
 ---

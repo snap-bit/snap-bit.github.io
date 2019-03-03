@@ -3,6 +3,7 @@ layout: project
 title: Pedestrian traffic light
 description: Some short description about this project.
 category: project
+slug: pedestrian-traffic-light
 diagram: power-microbit
 requires: microbit, snapbit, B1, S1, 3-wire
 ---
