@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Adjust LED brightness using the micro:bit buttons
+title: Adjust LED brightness
 description: Some short description about this project.
 category: project
 diagram: power-microbit
