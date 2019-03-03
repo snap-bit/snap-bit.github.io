@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+
+<section class="row">
+
+    <div class="col-sm-4">
+        {% include sidebar.html %}
+    </div>
+
+    <div class="col-sm-8">
+
+        <div class="posttitle">
+            <h2><span>{{ page.title }}</span></h2>
+        </div>
+
+        <p>{{ page.description }}</p>
+
+        <div>
+            <p><img src="{{ site.baseurl }}/assets/diagrams/{{ page.diagram }}.svg" alt="{{ page.title }}"></p>
+        </div>
+
+        <div class="article-post">
+            {{content}}
+        </div>
+
+    </div>
+
+</section>

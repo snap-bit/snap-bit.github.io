@@ -11,6 +11,10 @@ email: 'kaloyan@raev.name'
 # TODO
 #google_analytics: ''
 
+collections:
+  projects:
+    output: true
+
 # Plugins
 plugins: 
   - jekyll-paginate
