@@ -15,21 +15,39 @@ layout: default
             <h2><span>{{ page.title }}</span></h2>
         </div>
 
-        <p>{{ page.description }}</p>
-
-        <div>
-            <p><img src="{{ site.baseurl }}/assets/diagrams/{{ page.diagram }}.svg" alt="{{ page.title }}"></p>
+        <div class="article-post">
+            {{ page.description }}
         </div>
+
+        {% if page.diagram %}
+        <div class="project-diagram">
+            <img src="{{ site.baseurl }}/assets/diagrams/{{ page.diagram }}.svg" alt="{{ page.title }}">
+        </div>
+        <div class="article-post">
+            Build the circuit shown on the diagram above.
+        </div>
+        {% endif %}
+
+        {% if page.makecode %}
+        <p></p>
+        <div class="article-post">
+            Download the code shown below to your micro:bit. Use the "Download" link at the bottom of the embedded code
+            editor.
+        </div>
+        <div class="project-makecode" style="position:relative;height:0;padding-bottom:70%;overflow:hidden;">
+            <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:{{ page.makecode }}"
+                frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe>
+        </div>
+        <div class="article-post">
+            After downloading the code, disconnect all cables from your micro:bit. Both the USB and the battery pack
+            must be disconnected from the micro:bit.
+        </div>
+        <p></p>
+        {% endif %}
 
         <div class="article-post">
             {{content}}
         </div>
-
-        {% if page.makecode %}
-        <h4>Source code for micro:bit</h4>
-        <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;"
-                src="https://makecode.microbit.org/#pub:{{ page.makecode }}" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
-        {% endif %}
 
     </div>
 
