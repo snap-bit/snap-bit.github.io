@@ -6,7 +6,7 @@ category: lesson
 slug: power-microbit
 diagram: power-microbit
 makecode: _VRz5UYA7MW4P
-requires: microbit, snapbit, B1, S1, 3-wire
+requires: B1,S1,3
 ---
 
 The snap:bit module has two special snaps -- 3V and GND, which are connected to the 3V and GND pins of the micro:bit respectively. If the micro:bit is not being powered by USB or its own battery, then the 3V pin can be used as a power input to power the micro:bit. 

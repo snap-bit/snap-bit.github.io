@@ -5,7 +5,7 @@ description: Some short description about this project.
 category: lesson
 slug: connect-press-switch
 diagram: power-microbit
-requires: microbit, snapbit, B1, S1, 3-wire
+requires: B1,S1,S2,1,3x3
 ---
 
 Here comes the content.

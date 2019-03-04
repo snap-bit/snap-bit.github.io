@@ -5,7 +5,7 @@ description: Some short description about this project.
 category: lesson
 slug: power-from-microbit
 diagram: power-from-microbit
-requires: microbit, snapbit, S1, L1, 3-wire
+requires: S1,L1,3
 ---
 
 Here comes the content.

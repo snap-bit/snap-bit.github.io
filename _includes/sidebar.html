@@ -1,24 +1,76 @@
 <div class="sidebar">
-        
-        <div class="sidebar-section">
-            <h5><span>Newsletter</span></h5>
-            {% include newsletter.html %}
-        </div>
-            
-        <div class="sidebar-section">
-            <h5><span>Useful</span></h5>
-            <ul style="list-none;">
-            <li><a target="_blank" href="https://m.do.co/c/84c9b45d0c47">Digital Ocean</a></li>
-            <li><a target="blank" href="https://www.cloudways.com/en/pricing.php?id=153986&a_bid=005da123">Cloudways</a></li>
-            <li><a target="blank" href="http://shareasale.com/r.cfm?b=875645&u=1087935&m=41388&urllink=&afftrack=">Page Speed Test</a></li>
-            <li><a target="blank" href="https://www.wowthemes.net/affiliate-area/?utm_source=fromjekyllsidebar&utm_campaign=sidebar">Partner with Us</a></li>
-            <li><a target="blank" href="https://www.wowthemes.net/category/jekyll-themes/">Our Jekyll Themes</a></li>
-            </ul>
-        </div>
-            
-        <div class="sidebar-section">
-             <h5><span>Recommended</span></h5>
-           <a href="https://easydigitaldownloads.com/?ref=2135" title="Sell digital downloads with WordPress, for free"><img src="https://easydigitaldownloads.com/wp-content/uploads/2015/02/300x250-2.png" alt="Sell digital downloads with WordPress, for free" /></a>
-        </div>
-            
+
+    <div class="sidebar-section">
+        <h5><span>Newsletter</span></h5>
+        {% include newsletter.html %}
+    </div>
+
+    {% if page.requires %}
+    {% assign items = page.requires | split: "," %}
+    <div class="sidebar-section">
+        <h5><span>Required components</span></h5>
+        <ul>
+            <li>1 x micro:bit</li>
+            <li>1 x snap:bit</li>
+            {% for item in items %}
+            {% assign pair = item | split: "x" %}
+            {% assign len = pair | array_to_sentence_string: " " | number_of_words %}
+            {% if len == 1 %}
+            {% assign times = 1 %}
+            {% else %}
+            {% assign times = pair.first %}
+            {% endif %}
+            {% assign label = pair.last %}
+            {% case label %}
+            {% when '1' %}
+            {% assign name = "1-Snap Wire" %}
+            {% when '2' %}
+            {% assign name = "2-Snap Wire" %}
+            {% when '3' %}
+            {% assign name = "3-Snap Wire" %}
+            {% when '4' %}
+            {% assign name = "4-Snap Wire" %}
+            {% when '5' %}
+            {% assign name = "5-Snap Wire" %}
+            {% when '6' %}
+            {% assign name = "6-Snap Wire" %}
+            {% when 'WC' %}
+            {% assign name = "Whistle Chip" %}
+            {% when 'S1' %}
+            {% assign name = "Slide Switch (S1)" %}
+            {% when 'S2' %}
+            {% assign name = "Press Switch (S2)" %}
+            {% when 'RP' %}
+            {% assign name = "Photoresistor (RP)" %}
+            {% when 'D1' %}
+            {% assign name = "Red LED (D1)" %}
+            {% when 'L1' %}
+            {% assign name = "2.5V Lamp (L1)" %}
+            {% when 'B1' %}
+            {% assign name = "Battery Holder (B1)" %}
+            {% when 'SP' %}
+            {% assign name = "8Ω Speaker (SP)" %}
+            {% when 'U1' %}
+            {% assign name = "Music IC (U1)" %}
+            {% when 'U2' %}
+            {% assign name = "Alarm IC (U1)" %}
+            {% when 'U3' %}
+            {% assign name = "Space War IC (U1)" %}
+            {% when 'M1' %}
+            {% assign name = "Motor (M1)" %}
+            {% when 'R1' %}
+            {% assign name = "100Ω Resistor (R1)" %}
+            {% when 'J1' %}
+            {% assign name = "Jumper Whire (Black)" %}
+            {% when 'J2' %}
+            {% assign name = "Jumper Whire (Red)" %}
+            {% else %}
+            {% assign name = item %}
+            {% endcase %}
+            <li>{{ times }} x {{ name }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
 </div>

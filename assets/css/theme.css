@@ -727,12 +727,13 @@ background-color: #fff;
     background-color: #333333;
 }
 .sidebar ul {list-style:none;padding-left:0;}
-.sidebar ul li a {
+.sidebar ul li {
     color: #999;
     border-bottom: 1px solid #f6f6f6;
     display: block;
     padding-bottom: 10px;
     padding-top: 10px;
+    margin-left: 15px;
 }
 .sidebar-section {     margin-bottom: 2rem;
     box-shadow: 0 0px 1px 0 rgba(0,0,0,0.1);
