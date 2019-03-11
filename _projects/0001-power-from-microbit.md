@@ -20,6 +20,6 @@ Powering the micro:bit using the USB instead of the Battery Holder (B1) is usefu
 
 #### Beware of short circuits
 
-Every circuit powered from the micro:bit must include a resistance (which might be a resistor, lamp, motor, integrated circuit, etc.) between the 3V and GND snaps. You must be careful not to create "short circuits" (very low-resistance paths across the 3V and GND snaps like on the example below) as this may damage the micro:bit, the snap:bit and other components.
+**Important!** Every circuit powered from the micro:bit must include a resistance (which might be a resistor, lamp, motor, integrated circuit, etc.) between the 3V and GND snaps. You must be careful not to create "short circuits" (very low-resistance paths across the 3V and GND snaps like on the example below) as this may damage the micro:bit, the snap:bit and other circuit components.
 
 ![snap:bit short circuit](../assets/diagrams/power-from-microbit-short.svg)
