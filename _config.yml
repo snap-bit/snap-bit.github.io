@@ -5,7 +5,6 @@ description: "Combine BBC micro:bit with Snap Circuits"
 meta_description: "Combine BBC micro:bit with Snap Circuits."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-paginate: 12
 baseurl: '/'
 email: 'kaloyan@raev.name'
 # TODO
@@ -18,7 +17,7 @@ collections:
 
 # Plugins
 plugins: 
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
@@ -31,6 +30,17 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
+
+# Pagination
+pagination:
+  enabled: true
+  collection: 'projects'
+  per_page: 6
+  permalink: '/projects/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
     
 # Other
 markdown: kramdown
