@@ -7,6 +7,7 @@ slug: connect-led
 diagram: led
 makecode: _C99Jkd42b1pc
 requires: B1,S1,D1,1,3x3
+featured: true
 ---
 
 When you close the slide switch (S1), the Battery Holder (B1) powers the snap:bit through the 3V snap and the micro:bit turns on. The "on start" event triggers and the micro:bit writes a digital 1 signal to pin P1. This lets the current flow through the LED (D1) and back through the GND of the snap:bit and the battery.
