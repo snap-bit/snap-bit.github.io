@@ -8,6 +8,10 @@ ruby RUBY_VERSION
 #     bundle exec jekyll serve
 #
 
+# We'll need rake to build our site in TravisCI
+gem "rake", "~> 12"
+gem "jekyll"
+
 # If you have any plugins, put them here!
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 group :jekyll_plugins do
