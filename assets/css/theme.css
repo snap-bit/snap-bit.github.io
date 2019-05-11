@@ -767,6 +767,10 @@ background-color: #fff;
     font-weight: 500;
     margin-bottom: 1.5rem;
 }
+.article-post table, .article-post th, .article-post td {
+    border: 1px solid #d0d0d0;
+    padding: 6px 13px
+}
 .article-post img.shadow {
     -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);
     -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);
