@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Connect speaker to snap:bit
-description: Shows how to connect a speaker and play music from the micro:bit.
+description: Shows how to connect a speaker to snap:bit and play music from the micro:bit.
 category: lesson
 slug: connect-speaker
 diagram: speaker

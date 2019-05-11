@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Use micro:bit as power source
-description: Shows how to use the micro:bit as the power source of the electronic circuit.
+description: Shows how to use the micro:bit as the power source for the electronic circuit.
 category: lesson
 slug: power-from-microbit
 diagram: power-from-microbit

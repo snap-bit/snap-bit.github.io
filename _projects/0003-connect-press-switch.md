@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Connect press switch (S2) to snap:bit
-description: Show how to receive input from the press switch.
+description: Show how to receive input from the press switch and process it in the micro:bit.
 category: lesson
 slug: connect-press-switch
 diagram: press-switch

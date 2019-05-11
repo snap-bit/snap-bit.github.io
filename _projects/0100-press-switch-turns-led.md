@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Turn LED on and off using the press switch (S2)
-description: Shows how to control the state of the LED with the press switch.
+description: Shows how to control the state of the LED with the press switch. Pressing the switch once turns the LED on. Pressing the switch again turns the LED off.
 category: project
 slug: press-switch-turns-led 
 diagram: led-press
