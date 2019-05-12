@@ -15,6 +15,6 @@ When you close the slide switch (S1), current flows from the battery (B1) throug
 
 Powering the micro:bit this way is very convenient as you don't need to connect additional cables to the micro:bit to power it on. Using the slide switch (S1) to power the micro:bit on and off is also very useful. We will use this way of powering the micro:bit in most of the projects.
 
-**Important!** Never connect a batter to the 3V snap of the snap:bit while powering the micro:bit using a USB cable or its own battery at the same time. This may damage the micro:bit, the snap:bit and other circuit components.
+**Important!** Never connect a battery to the 3V snap of the snap:bit while powering the micro:bit using a USB cable or its own battery at the same time. This may damage the micro:bit, the snap:bit and other circuit components.
 
 **Important!** Never apply more than 3V voltage to the 3V snap of the snap:bit. This may damage the micro:bit, the snap:bit and other circuit components. To be on the safe side always use the battery holder (B1). Be careful when using the Solar Cell (B2). Be sure to use it only under normal lighting, but not under very intense and bright light. You can also use Snap Module for AC Adapter (B6), but only connecting to the 3V snap. Never connect the 5V/6V snap to the 3V snap of the snap:bit. Never use any other power sources like the Battery Holder 4.5V (B3), the Rechargeable Battery 3.6V (B4), the 9V Holder (B5), or the Solar Cell (B7).

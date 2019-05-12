@@ -11,7 +11,7 @@ requires: B1,S1,SP,1,2,3x3,4
 
 The micro:bit plays music through pin P0. So the Speaker (SP) snaps must be connected across snap 0 and either the 3V or GND snap of the snap:bit.
 
-When you close the slide switch (S1), the Battery Holder (B1) powers the snap:bit through the 3V snap and the micro:bit turns on. The "on start" event triggers and the micro:bit plays the melody. The sound is modulated as current through snap 0, which goes through the speaker and makes it play the sound.
+When you close the slide switch (S1), the Battery Holder (B1) powers the snap:bit through the 3V snap and the micro:bit turns on. The "on start" event triggers and the micro:bit plays the melody. The sound is modulated as a current through snap 0, which goes through the speaker and makes it play the sound.
 
 #### Incorrect connection of the speaker
 
@@ -21,7 +21,7 @@ Below is an example of an incorrectly connected speaker.
 
 ![incorrectly connected speaker](../assets/diagrams/speaker-incorrect.svg)
 
-Although the speaker is connected to the the batter (-) and the circuit is closed (current can flow from snap 0 of the snap:bit, through the speaker, back to the battery), the melody sounds distorted, because the speaker is not grounded properly to the micro:bit.
+Although the speaker is connected to the batter (-) and the circuit is closed (current can flow from snap 0 of the snap:bit, through the speaker, back to the battery), the melody sounds distorted, because the speaker is not grounded properly to the micro:bit.
 
 #### Minimal speaker connection
 

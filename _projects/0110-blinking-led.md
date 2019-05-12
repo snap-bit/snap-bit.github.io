@@ -12,7 +12,7 @@ featured: true
 
 When you close the slide switch (S1), the Battery Holder (B1) powers the snap:bit through the 3V snap and the micro:bit turns on. The “on start” event triggers and the micro:bit displays the snap:bit logo.
 
-At the same time the "forever" loop starts too. It first writes a digital 1 signal to pin P1. This closes the circuit between the P1 and GND pins and the LED (D1) turns on. Then it pauses for 1 second. Then it writes a digital 0 signal to pin P1. This opens the circuit between the P1 and GND pins and the LED turns off. The loop now pauses for another second. So far this made the LED be on for one second, and off for one second.
+When the "on start" event finishes, the "forever" loop starts. It first writes a digital 1 signal to pin P1. This closes the circuit between the P1 and GND pins and the LED (D1) turns on. Then it pauses for 1 second. Then it writes a digital 0 signal to pin P1. This opens the circuit between the P1 and GND pins and the LED turns off. The loop now pauses for another second. So far this made the LED be on for one second, and off for one second.
 
 The "forever" loop executes the instructions in its body again and again until the micro:bit is turned off. Therefore, the LED will blink every second.
 
