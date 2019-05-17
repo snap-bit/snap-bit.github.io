@@ -7,7 +7,6 @@ slug: blinking-led
 diagram: led
 makecode: _JwUWY6h5sg0e
 requires: B1,S1,D1,1,3x3
-featured: true
 ---
 
 When you close the slide switch (S1), the Battery Holder (B1) powers the snap:bit through the 3V snap and the micro:bit turns on. The “on start” event triggers and the micro:bit displays the snap:bit logo.

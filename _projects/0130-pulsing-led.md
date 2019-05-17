@@ -7,6 +7,7 @@ slug: pulsing-led
 diagram: led
 makecode: _JHU45o3md3yA
 requires: B1,S1,D1,1,3x3
+featured: true
 ---
 
 This project builds on top of what we learned in the [Blinking LED](blinking-led.html) and the [Adjust LED brightness](adjust-led-brightness.html) projects.
