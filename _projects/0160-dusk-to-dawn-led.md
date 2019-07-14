@@ -4,7 +4,7 @@ title: Dusk to dawn LED
 description: Some short description about this project.
 category: project
 slug: dusk-to-dawn-led
-diagram: power-microbit
+diagram: led
 requires: B1,S1,D1,1,3x3
 ---
 
