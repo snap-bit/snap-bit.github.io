@@ -3,7 +3,7 @@ layout: page
 title: Meet snap:bit
 ---
 
-Snap:bit is an electronic component for the Snap Circuits educational electronic kit. It features a socket for connecting the BBC micro:bit. This allows the Snap Circuits to be programmatically controlled by the micro:bit.
+snap:bit is an electronic component for the Snap Circuits educational electronic kit. It features a socket for connecting the BBC micro:bit. This allows the Snap Circuits to be programmatically controlled by the micro:bit.
 
 All features of the micro:bit like the accelerometer and compass, the light and temperature sensors, the radio and Bluetooth, are available for a completely new experience with Snap Circuits!
 
