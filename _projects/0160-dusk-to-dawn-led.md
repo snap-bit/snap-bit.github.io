@@ -6,6 +6,7 @@ category: project
 slug: dusk-to-dawn-led
 diagram: led
 requires: B1,S1,D1,1,3x3
+published: false
 ---
 
 Here comes the content.
