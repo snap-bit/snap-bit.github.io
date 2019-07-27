@@ -7,8 +7,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 email: 'office@snapbit.org'
-# TODO
-#google_analytics: ''
+google_analytics: 'UA-144649996-1'
 
 collections:
   projects:
