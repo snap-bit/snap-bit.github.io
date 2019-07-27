@@ -348,7 +348,8 @@ span.post-name a,span.post-read-more a:hover {
     letter-spacing: 1px;
 }
 .intro h1 {
-    font-weight:700;
+    font-weight:600;
+    color: white;
 }
 .intro h2 {
     margin-top: 1rem;
