@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meet the snap:bit creators
+title: Meet the creators
 ---
 
 The snap:bit is created by a family of software engineers from Bulgaria.

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects you can build with snap:bit
+title: Projects you can build
 ---
 
 We prepared a list of projects for you to start tinkering with snap:bit. Snap:bit brings together Snap Circuits and the BBC micro:bit in a completely new learning experience.
 
-The first projects are light and easy, aimed to introduce you to using snap:bit. Then we dive into more exciting projects, derived from real-life use cases.
+The basic lessons are light and easy, aimed to introduce you to using snap:bit. Then we dive into more exciting projects, derived from real-life use cases.
 
 ### Basic lessons
 
