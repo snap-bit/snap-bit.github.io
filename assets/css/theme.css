@@ -328,6 +328,7 @@ span.post-name a,span.post-read-more a:hover {
 .intro {
     background-image:url(../images/head.jpg);
     background-size:cover;
+    background-position-x: center;
     padding: 9rem 0;
     margin-top:0px;
     margin-bottom:3.5rem;
