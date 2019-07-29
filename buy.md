@@ -33,6 +33,6 @@ Bulk and wholesale orders
 
 We are looking to expanding our distribution network of retailers.
 
-Contact us at [order@snapbit.org](mailto:order@snapbit.org) for an offer of bulk and wholesale orders.
+Contact us at [order@snapbit.org](mailto:order@snapbit.org) for an offer for bulk and wholesale orders.
 
 MOQ: 20 items
