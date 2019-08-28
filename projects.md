@@ -20,3 +20,5 @@ These are more complex projects that involve significantly more coding than the 
 
 {% for project in site.projects %}{% if project.category == 'project' %}
 - [{{ project.title }}]({{ project.url }}){% endif %}{% endfor %}
+
+More projects coming soon!
