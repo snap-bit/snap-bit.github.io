@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-*snap:bit* is a product of Snap Bit Ltd.
+The *snap:bit* is a product of Snap Bit Ltd.
 
 **E-mail:** [office@snapbit.org](mailto:office@snapbit.org)
 
