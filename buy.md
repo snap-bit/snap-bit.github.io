@@ -11,7 +11,7 @@ MSRP / RRP : €24.99
 
 <a href="https://www.tindie.com/stores/snapbit/?ref=offsite_badges&utm_source=sellers_snapbit&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
-Alternatively, contact us at [order@snapbit.org](mailto:order@snapbit.org) for buying your own snap:bit.
+Alternatively, contact us by [order@snapbit.org](mailto:order@snapbit.org) for buying your own snap:bit.
 
 <a name="classrooms"/>
 
@@ -22,7 +22,7 @@ For classrooms
 
 We have a special discount for teachers.
 
-Contact us at [order@snapbit.org](mailto:order@snapbit.org) for buying snap:bits for your class.
+Contact us by [order@snapbit.org](mailto:order@snapbit.org) for buying snap:bits for your class.
 
 MOQ: 10 items
 
@@ -35,6 +35,6 @@ Bulk and wholesale orders
 
 We are looking to expanding our distribution network of retailers.
 
-Contact us at [order@snapbit.org](mailto:order@snapbit.org) for an offer for bulk and wholesale orders.
+Contact us by [order@snapbit.org](mailto:order@snapbit.org) for an offer for bulk and wholesale orders.
 
 MOQ: 20 items
