@@ -9,7 +9,9 @@ The snap:bit is available to order.
 
 MSRP / RRP : €24.99
 
-Contact us at [order@snapbit.org](mailto:order@snapbit.org) for buying your own snap:bit.
+<a href="https://www.tindie.com/stores/snapbit/?ref=offsite_badges&utm_source=sellers_snapbit&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+
+Alternatively, contact us at [order@snapbit.org](mailto:order@snapbit.org) for buying your own snap:bit.
 
 <a name="classrooms"/>
 
