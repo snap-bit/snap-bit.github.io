@@ -7,7 +7,7 @@ The snap:bit is created by a family of software engineers from Bulgaria.
 
 ![our family]({{site.baseurl}}/assets/images/family.jpg)
 
-The idea of creating snap:bit sparked to [Daddy Kaloyan](https://www.linkedin.com/in/kaloyanraev/) and [Mummy Reni](https://www.linkedin.com/in/irena-stambolieva-aa2b022/) while playing with their smart and lovely kids Plami and Marin. We enjoyed learning together about electricity and electronics with the Snap Circuits educational kit, and software programming with the BBC micro:bit. One day our kids asked if we can make the micro:bit control the Snap Circuits. And here we go -- we quickly assembled a project with the help of a few cables with aligator clips.
+The idea of creating snap:bit sparked to [Daddy Kaloyan](https://www.linkedin.com/in/kaloyanraev/) and [Mummy Reni](https://www.linkedin.com/in/irena-stambolieva-aa2b022/) while playing with their smart and lovely kids Plami and Marin. We enjoyed learning together about electricity and electronics with the Snap Circuits educational kit, and software programming with the BBC micro:bit. One day our kids asked if we can make the micro:bit control the Snap Circuits. And here we go -- we quickly assembled a project with the help of a few cables with alligator clips.
 
 Having a bunch of wires around was quite confusing for our little kids. So Daddy Kaloyan took his toolbox out and after a few days handcrafted the prototype of the snap:bit.
 
