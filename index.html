@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Home
-pagination:
-  enabled: true
 ---
 
 <!-- Home Jumbotron
@@ -18,6 +16,7 @@ pagination:
 
 <!-- Featured
 ================================================== -->
+
 <section class="featured-posts">
 
     <div class="section-title">
@@ -25,28 +24,19 @@ pagination:
     </div>
 
     <div class="row listfeaturedtag">
-
-        {% for project in site.projects %}
-
-        {% if project.featured == true %}
-
-        {% include featuredbox.html %}
-
-        {% endif %}
-
-        {% endfor %}
-
+        <iframe frameborder='0' height='385' scrolling='no'
+            src='https://www.hackster.io/snap-bit/measure-wind-speed-with-micro-bit-and-snap-circuits-c50fe3/embed'
+            width='352'></iframe>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <iframe frameborder='0' height='385' scrolling='no'
+            src='https://www.hackster.io/snap-bit/snap-bit-countdown-timer-with-light-and-sound-8f09f1/embed'
+            width='352'></iframe>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <iframe frameborder='0' height='385' scrolling='no'
+            src='https://www.hackster.io/snap-bit/snap-bit-pulsing-led-b992e3/embed' width='352'></iframe>
     </div>
 
 </section>
-
-<!-- Projects Index
-================================================== -->
-{% if paginator.previous_page %}
-{% if paginator.previous_page > 0 %}
-<div id="jumptopageof"></div>
-{% endif %}
-{% endif %}
 
 <section class="recent-posts row">
 
@@ -60,30 +50,24 @@ pagination:
             <h2><span>Latest Projects</span></h2>
         </div>
 
-        <div class="masonrygrid row listrecent">
-
-            {% for project in paginator.posts %}
-
-            {% unless project.featured == true %}
-
-            {% include postbox.html %}
-
-            {% endunless %}
-
-            {% endfor %}
-
+        <div class="listfeaturedtag row listrecent">
+            <iframe frameborder='0' height='385' scrolling='no'
+                src='https://www.hackster.io/snap-bit/snap-bit-adjust-led-brightness-09e0fb/embed' width='350'></iframe>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <iframe frameborder='0' height='385' scrolling='no'
+                src='https://www.hackster.io/snap-bit/snap-bit-connect-whistle-chip-to-micro-bit-d897df/embed'
+                width='350'></iframe>
+            <iframe frameborder='0' height='385' scrolling='no'
+                src='https://www.hackster.io/snap-bit/snap-bit-connect-speaker-to-micro-bit-0c4b05/embed'
+                width='350'></iframe>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <iframe frameborder='0' height='415' scrolling='no'
+                src='https://www.hackster.io/snap-bit/snap-bit-turn-led-on-and-off-with-the-press-switch-eb6b21/embed'
+                width='350'></iframe>
         </div>
 
-        <!-- Pagination -->
-        <div class="bottompagination">
-
-            <span class="navigation" role="navigation">
-
-                {% include pagination.html %}
-
-            </span>
-
-        </div>
+        <center><a class="btn btn-primary btn-lg" href="https://www.hackster.io/snap-bit/projects">More projects @
+                Hackster.io</a></center>
 
     </div>
 
