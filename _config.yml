@@ -21,6 +21,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-redirect-from
         
 # Archives
 jekyll-archives:
@@ -32,7 +33,7 @@ jekyll-archives:
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
   collection: 'projects'
   per_page: 6
   permalink: '/projects/page/:num/'
