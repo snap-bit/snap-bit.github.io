@@ -39,6 +39,10 @@ These include basic instructions on how to properly connect a variety of Snap Ci
     <iframe frameborder='0' height='410' scrolling='no'
             src='https://www.hackster.io/snap-bit/snap-bit-connect-photoresistor-to-micro-bit-521b7f/embed'
             width='350'></iframe>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <iframe frameborder='0' height='410' scrolling='no'
+            src='https://www.hackster.io/snap-bit/snap-bit-control-lamp-with-micro-bit-and-transistor-b187b8/embed'
+            width='350'></iframe>
 </div>
 
 ### Projects
