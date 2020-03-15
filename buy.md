@@ -7,13 +7,21 @@ The snap:bit is available to order.
 
 <img src="{{site.baseurl}}/assets/images/snap-bit-top.jpg" alt="snap:bit" width="300"/>
 
-MSRP / RRP : €24.99
+__MSRP / RRP : €24.99__
 
-You can buy snap:bit from <a href="https://www.tindie.com/products/snapbit/snapbit-microbit-adapter-for-snap-circuits/">Tindie</a> and <a href="https://www.amazon.co.uk/dp/B07Y64F2N6/">Amazon</a> (<a href="https://www.amazon.co.uk/dp/B07Y64F2N6/">UK</a>, <a href="https://www.amazon.de/dp/B07Y64F2N6/">DE</a>, <a href="https://www.amazon.fr/dp/B07Y64F2N6/">FR</a>, <a href="https://www.amazon.it/dp/B07Y64F2N6/">IT</a> and <a href="https://www.amazon.es/dp/B07Y64F2N6/">ES</a>).
+You can buy snap:bit from:
+* <a href="https://www.tindie.com/products/snapbit/snapbit-microbit-adapter-for-snap-circuits/">Tindie</a>
+* <a href="https://www.amazon.co.uk/dp/B07Y64F2N6/">Amazon</a> (<a href="https://www.amazon.co.uk/dp/B07Y64F2N6/">UK</a>, <a href="https://www.amazon.de/dp/B07Y64F2N6/">DE</a>, <a href="https://www.amazon.fr/dp/B07Y64F2N6/">FR</a>, <a href="https://www.amazon.it/dp/B07Y64F2N6/">IT</a> and <a href="https://www.amazon.es/dp/B07Y64F2N6/">ES</a>)
+* Our distributors (see below)
+* By contacting us at [order@snapbit.org](mailto:order@snapbit.org)
 
 <a href="https://www.tindie.com/products/snapbit/snapbit-microbit-adapter-for-snap-circuits/?ref=offsite_badges&utm_source=sellers_snapbit&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
-Alternatively, contact us by [order@snapbit.org](mailto:order@snapbit.org) for buying your own snap:bit.
+#### Distributors
+
+* Snapcircuits Israel - [snapcircuits.co.il](https://snapcircuits.co.il/)
+
+<br>
 
 <a name="classrooms"/>
 
@@ -27,6 +35,8 @@ We have a special discount for teachers.
 Contact us by [order@snapbit.org](mailto:order@snapbit.org) for buying snap:bits for your class.
 
 MOQ: 10 items
+
+<br>
 
 <a name="retail"/>
 
