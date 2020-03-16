@@ -99,6 +99,10 @@ These are our specials! Exciting projects that involve some craft work.
     <iframe frameborder='0' height='410' scrolling='no'
             src='https://www.hackster.io/snap-bit/blow-game-with-micro-bit-and-snap-circuits-8288b9/embed'
             width='350'></iframe>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <iframe frameborder='0' height='410' scrolling='no'
+            src='https://www.hackster.io/snap-bit/pot-of-gold-counter-with-lego-snap-circuits-and-micro-bit-db1db7/embed'
+            width='350'></iframe>
 </div>
 
 More projects coming soon!
