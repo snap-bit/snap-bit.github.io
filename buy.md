@@ -19,7 +19,7 @@ You can buy snap:bit from:
 
 #### Distributors
 
-* Snapcircuits Israel - [snapcircuits.co.il](https://snapcircuits.co.il/)
+* Snapcircuits Israel - [snapcircuits.co.il](https://snapcircuits.co.il/product/snapbit/)
 
 <br>
 
