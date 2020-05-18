@@ -30,4 +30,4 @@ Projects
 --------
 The snap:bit comes with a [list of projects](projects) designed to guide you with the first steps of using the BBC micro:bit and Snap Circuits together. The projects are easy to learn block diagrams using the [MakeCode Editor](https://makecode.microbit.org/).
 
-The variety of project range from easy lessons to more complex and exciting projects. Although they teach lots of basic programming concepts and take advantage of most micro:bit features and Snap Circuits components, the possibility of projects are limited only by the kids imagination!
+The variety of projects ranges from easy lessons to more complex and exciting projects. Although they teach lots of basic programming concepts and take advantage of most micro:bit features and Snap Circuits components, the possibility of projects are limited only by the kid's imagination!
