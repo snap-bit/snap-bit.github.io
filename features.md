@@ -28,8 +28,8 @@ The snap:bit breakout board:
 ![extension kit features](../assets/images/features-extension-kit.jpg)
 
 The snap:bit extension kit includes:
- - 1 x snap:bit breakout board
- - 5 x snap-to-female cables, different colors
+- 1 x snap:bit breakout board
+- 5 x snap-to-female cables, different colors
 
 
 Compatibility
