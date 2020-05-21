@@ -19,7 +19,9 @@ You can buy snap:bit from:
 
 #### Distributors
 
-* Snapcircuits Israel - [snapcircuits.co.il](https://snapcircuits.co.il/product/snapbit/)
+<a href="https://shop.cyntech.co.uk/"><img src="../assets/images/distributor-cyntech.png" alt="Cyntech Components" width="250"></a>
+
+Snapcircuits Israel - [snapcircuits.co.il](https://snapcircuits.co.il/product/snapbit/)
 
 <br>
 
