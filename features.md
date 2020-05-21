@@ -7,7 +7,7 @@ The snap:bit is an electronic component for the Snap Circuits educational electr
 
 All features of the micro:bit like the accelerometer and compass, the light and temperature sensors, the radio and Bluetooth, are available for a completely new experience with Snap Circuits!
 
-![minimal speaker connection](../assets/images/features.png)
+![snap:bit features](../assets/images/features.jpg)
 
 Features
 --------
@@ -17,6 +17,20 @@ Features
 - No need for crocodile clips, banana plugs, or other cables.
 - Plenty of [exciting projects](projects) using easy to learn block diagrams.
 - Robust, kid-friendly design.
+
+Extension Kit
+-------------
+The snap:bit breakout board:
+- Provides access to all 20 pins of the BBC micro:bit.
+- Allows connecting more than 3 SnapCircuit parts to the BBC micro:bit.
+- The Snap Circuits parts can be connected with standard snap-to-female cables.
+
+![extension kit features](../assets/images/features-extension-kit.jpg)
+
+The snap:bit extension kit includes:
+ - 1 x snap:bit breakout board
+ - 5 x snap-to-female cables, different colors
+
 
 Compatibility
 -------------
