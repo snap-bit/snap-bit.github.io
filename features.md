@@ -9,6 +9,8 @@ All features of the micro:bit like the accelerometer and compass, the light and 
 
 ![snap:bit features](../assets/images/features.jpg)
 
+<a name="features"/>
+
 Features
 --------
 - A socket for the BBC micro:bit edge connector.
@@ -17,6 +19,8 @@ Features
 - No need for crocodile clips, banana plugs, or other cables.
 - Plenty of [exciting projects](projects) using easy to learn block diagrams.
 - Robust, kid-friendly design.
+
+<a name="extension-kit"/>
 
 Extension Kit
 -------------
@@ -31,6 +35,7 @@ The snap:bit extension kit includes:
 - 1 x snap:bit breakout board
 - 5 x snap-to-female cables, different colors
 
+<a name="compatibility"/>
 
 Compatibility
 -------------
@@ -39,6 +44,8 @@ Compatibility
 - All Snap Circuits educational kits are supported.
 - The snap buttons on the snap:bit are designed to snap well with all Snap Circuits components.
 - Other educational kits with snap buttons compatible with Snap Circuits are supported.
+
+<a name="projects"/>
 
 Projects
 --------
