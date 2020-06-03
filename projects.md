@@ -55,6 +55,10 @@ These include basic instructions on how to properly connect a variety of Snap Ci
     <iframe frameborder='0' height='410' scrolling='no'
             src='https://www.hackster.io/snap-bit/snap-bit-control-remotely-snap-circuits-with-micro-bit-c031ce/embed'
             width='350'></iframe>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <iframe frameborder='0' height='410' scrolling='no'
+            src='https://www.hackster.io/snap-bit/snap-bit-connect-infrared-ir-receiver-to-micro-bit-6c03ce/embed'
+            width='350'></iframe>
 </div>
 
 ### Projects
