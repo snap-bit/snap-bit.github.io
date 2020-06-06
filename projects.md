@@ -97,6 +97,10 @@ These are more complex projects that involve significantly more coding than the 
     <iframe frameborder='0' height='410' scrolling='no'
             src='https://www.hackster.io/snap-bit/snap-bit-infrared-ir-controlled-lamp-with-turn-off-timer-95360d/embed'
             width='350'></iframe>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <iframe frameborder='0' height='410' scrolling='no'
+            src='https://www.hackster.io/snap-bit/snap-bit-infrared-ir-controlled-dc-motor-58aca2/embed'
+            width='350'></iframe>
 </div>
 
 ### Craft projects
