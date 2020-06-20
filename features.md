@@ -21,7 +21,7 @@ Features
 Extension Kit
 -------------
 The snap:bit breakout board:
-- Provides access to all 20 pins of the BBC micro:bit.
+- Provides access to all 21 pins of the BBC micro:bit.
 - Allows connecting more than 3 SnapCircuit parts to the BBC micro:bit.
 - The Snap Circuits parts can be connected with standard snap-to-female cables.
 
