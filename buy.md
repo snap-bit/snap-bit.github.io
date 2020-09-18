@@ -3,19 +3,30 @@ layout: page
 title: Order
 ---
 
-The snap:bit is available to order.
-
-<img src="{{site.baseurl}}/assets/images/snap-bit-top.jpg" alt="snap:bit" width="300"/>
-
-__MSRP / RRP : €24.99__
+The snap:bit is available to order.<br>
+<span style="display: inline-block; margin-top: 20px;">
+<b style="margin-left: 50px;">SNAP:BIT BOARD</b><br>
+<img src="{{site.baseurl}}/assets/images/snap-bit-top.jpg" alt="snap:bit" width="300"/><br>
+<i style="margin-left: 50px;">MSRP / RRP : €24.99</i><br>
+</span>
+<span style="display: inline-block; margin-top: 20px;">
+<b style="margin-left: 50px;">SNAP:BIT EXTENSION KIT</b><br>
+<img src="{{site.baseurl}}/assets/images/extension-kit.jpg" alt="extension kit" width="393"/><br>
+<i style="margin-left: 50px;">MSRP / RRP : €14.99</i><br>
+</span>
+<span style="display: inline-block; margin-top: 20px;">
+<b style="margin-left: 50px;">SNAP:BIT COMBO KIT</b><br>
+<img src="{{site.baseurl}}/assets/images/combo-kit.jpg" alt="extension kit" width="393"/><br>
+<i style="margin-left: 50px;">MSRP / RRP : €39.99</i><br>
+</span>
 
 You can buy snap:bit from:
-* <a href="https://www.tindie.com/products/snapbit/snapbit-microbit-adapter-for-snap-circuits/">Tindie</a>
+* <a href="https://www.tindie.com/stores/snapbit/">Tindie</a>
 * <a href="https://www.amazon.co.uk/dp/B07Y64F2N6/">Amazon</a> (<a href="https://www.amazon.co.uk/dp/B07Y64F2N6/">UK</a>, <a href="https://www.amazon.de/dp/B07Y64F2N6/">DE</a>, <a href="https://www.amazon.fr/dp/B07Y64F2N6/">FR</a>, <a href="https://www.amazon.it/dp/B07Y64F2N6/">IT</a> and <a href="https://www.amazon.es/dp/B07Y64F2N6/">ES</a>)
 * Our distributors (see below)
 * By contacting us at [order@snapbit.org](mailto:order@snapbit.org)
 
-<a href="https://www.tindie.com/products/snapbit/snapbit-microbit-adapter-for-snap-circuits/?ref=offsite_badges&utm_source=sellers_snapbit&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+<a href="https://www.tindie.com/stores/snapbit/?ref=offsite_badges&utm_source=sellers_snapbit&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
 #### Distributors
 
