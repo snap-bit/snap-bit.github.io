@@ -22,7 +22,6 @@ The snap:bit is available to order.<br>
 
 You can buy snap:bit from:
 * <a href="https://www.tindie.com/stores/snapbit/">Tindie</a>
-* <a href="https://www.amazon.co.uk/dp/B07Y64F2N6/">Amazon</a> (<a href="https://www.amazon.co.uk/dp/B07Y64F2N6/">UK</a>, <a href="https://www.amazon.de/dp/B07Y64F2N6/">DE</a>, <a href="https://www.amazon.fr/dp/B07Y64F2N6/">FR</a>, <a href="https://www.amazon.it/dp/B07Y64F2N6/">IT</a> and <a href="https://www.amazon.es/dp/B07Y64F2N6/">ES</a>)
 * Our distributors (see below)
 * By contacting us at [order@snapbit.org](mailto:order@snapbit.org)
 
