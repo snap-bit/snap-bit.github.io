@@ -29,6 +29,10 @@ These include basic instructions on how to properly connect a variety of Snap Ci
             width='350'></iframe>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <iframe frameborder='0' height='410' scrolling='no'
+            src='https://www.hackster.io/snap-bit/snap-bit-use-press-switch-as-buttons-a-and-b-of-micro-bit-01e4db/embed'
+            width='350'></iframe>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <iframe frameborder='0' height='410' scrolling='no'
             src='https://www.hackster.io/snap-bit/snap-bit-connect-speaker-to-micro-bit-0c4b05/embed'
             width='350'></iframe>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
