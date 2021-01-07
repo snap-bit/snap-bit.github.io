@@ -33,11 +33,15 @@ These include basic instructions on how to properly connect a variety of Snap Ci
             width='350'></iframe>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <iframe frameborder='0' height='410' scrolling='no'
+            src='https://www.hackster.io/snap-bit/snap-bit-connect-whistle-chip-to-micro-bit-d897df/embed'
+            width='350'></iframe>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <iframe frameborder='0' height='410' scrolling='no'
             src='https://www.hackster.io/snap-bit/snap-bit-connect-speaker-to-micro-bit-0c4b05/embed'
             width='350'></iframe>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <iframe frameborder='0' height='410' scrolling='no'
-            src='https://www.hackster.io/snap-bit/snap-bit-connect-whistle-chip-to-micro-bit-d897df/embed'
+            src='https://www.hackster.io/snap-bit/connect-speaker-with-amplifier-to-micro-bit-48a3d6/embed'
             width='350'></iframe>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <iframe frameborder='0' height='410' scrolling='no'
