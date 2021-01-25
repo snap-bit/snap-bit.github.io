@@ -34,11 +34,10 @@ The snap:bit extension kit includes:
 
 Compatibility
 -------------
-- The BBC micro:bit is supported.
-- Other PCB boards and accessories that feature the micro:bit edge connector are supported.
-- All Snap Circuits educational kits are supported.
-- The snap buttons on the snap:bit are designed to snap well with all Snap Circuits components.
-- Other educational kits with snap buttons compatible with Snap Circuits are supported.
+- Works with the BBC micro:bit V1 & V2.
+- Works with other PCB boards and accessories that feature the micro:bit edge connector.
+- Works with all Snap Circuits educational kits.
+- Works with other educational kits with snap buttons compatible with Snap Circuits.
 
 Projects
 --------
