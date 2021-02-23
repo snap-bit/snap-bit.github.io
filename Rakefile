@@ -15,7 +15,7 @@ task :default do
     :check_html => true,
     :check_img_http => true,
     :enforce_https => true,
-    :url_ignore => [/linkedin.com/, /makecode.microbit.org/]
+    :url_ignore => [/linkedin.com/, /makecode.microbit.org/, /robotshop.com/]
   }).run
   puts "Jekyll successfully built"
 end
