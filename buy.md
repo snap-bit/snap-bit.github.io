@@ -23,19 +23,12 @@ The snap:bit is available to order.<br>
 You can buy snap:bit from:
 * <a href="https://www.tindie.com/stores/snapbit/">Tindie</a>
 * <a href="https://www.robotshop.com/collections/vendor-snapbit">RobotShop</a>
-<!--
-* <a href="https://www.kiwi-electronics.com/index.php?route=product/search&search=snap%3Abit">Kiwi Electronics</a>
--->
 * Our distributors (see below)
 * By contacting us at [order@snapbit.org](mailto:order@snapbit.org)
 
 <a href="https://www.tindie.com/stores/snapbit/?ref=offsite_badges&utm_source=sellers_snapbit&utm_medium=badges&utm_campaign=badge_large"><img src="{{site.baseurl}}/assets/images/tindie.png" alt="I sell on Tindie" width="200" height="104"></a>
 &nbsp;&nbsp;
 <a href="https://www.robotshop.com/collections/vendor-snapbit"><img src="{{site.baseurl}}/assets/images/partner-robotshop-green.png" alt="I sell on RobotShop" width="250" height="104"></a>
-<!--
-&nbsp;&nbsp;
-<a href="https://www.kiwi-electronics.com/index.php?route=product/search&search=snap%3Abit"><img src="{{site.baseurl}}/assets/images/kiwi-logo.webp" alt="I sell on Kiwi Electronics" width="208" height="104"></a>
--->
 <br><br>
 <img src="{{site.baseurl}}/assets/images/compatibility-logo-v1-v2.webp" alt="Works with micro:bit V1 & V2" width="330" />
 
