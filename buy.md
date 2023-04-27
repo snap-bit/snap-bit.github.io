@@ -34,9 +34,11 @@ You can buy snap:bit from:
 
 #### Distributors
 
-<a href="https://shop.cyntech.co.uk/"><img src="../assets/images/distributor-cyntech.png" alt="Cyntech Components" width="250"></a>
-
-Snapcircuits Israel - [snapcircuits.co.il](https://snapcircuits.co.il/product/snapbit/)
+| Country        | Distributor |
+|----------------|-------------|
+| Check Republic | <a href="https://www.hwkitchen.cz/snapbit-combo-kit-adapter-microbit-rozsirujici-kit-patentkove-obvody/"><img src="../assets/images/distributor-hwkitchen.png" alt="HWKitchen" width="180"></a> |
+| Israel         | [snapcircuits.co.il](https://snapcircuits.co.il/product/snapbit/) |
+| United Kingdom | <a href="https://shop.cyntech.co.uk/products/snap-bit"><img src="../assets/images/distributor-cyntech.png" alt="Cyntech Components" width="300"></a> |
 
 <br>
 
