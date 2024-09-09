@@ -12,12 +12,12 @@ The snap:bit is available to order.<br>
 <span style="display: inline-block; margin-top: 20px;">
 <b style="margin-left: 50px;">SNAP:BIT EXTENSION KIT</b><br>
 <img src="{{site.baseurl}}/assets/images/extension-kit.jpg" alt="extension kit" width="393"/><br>
-<i style="margin-left: 50px;">MSRP / RRP : €19.99</i><br>
+<i style="margin-left: 50px;">MSRP / RRP : €22.99</i><br>
 </span>
 <span style="display: inline-block; margin-top: 20px;">
 <b style="margin-left: 50px;">SNAP:BIT COMBO KIT</b><br>
 <img src="{{site.baseurl}}/assets/images/combo-kit.jpg" alt="extension kit" width="393"/><br>
-<i style="margin-left: 50px;">MSRP / RRP : €39.99</i><br>
+<i style="margin-left: 50px;">MSRP / RRP : €44.99</i><br>
 </span>
 
 You can buy snap:bit from:
