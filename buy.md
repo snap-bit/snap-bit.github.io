@@ -6,17 +6,17 @@ title: Order
 The snap:bit is available to order.<br>
 <span style="display: inline-block; margin-top: 20px;">
 <b style="margin-left: 50px;">SNAP:BIT BOARD</b><br>
-<img src="{{site.baseurl}}/assets/images/snap-bit-top.jpg" alt="snap:bit" width="300"/><br>
+<img src="{{site.baseurl}}/assets/images/snap-bit-top.jpg" alt="snap:bit" width="295"/><br>
 <i style="margin-left: 50px;">MSRP / RRP : €29.99</i><br>
 </span>
 <span style="display: inline-block; margin-top: 20px;">
 <b style="margin-left: 50px;">SNAP:BIT EXTENSION KIT</b><br>
-<img src="{{site.baseurl}}/assets/images/extension-kit.jpg" alt="extension kit" width="393"/><br>
+<img src="{{site.baseurl}}/assets/images/extension-kit.jpg" alt="extension kit" width="375"/><br>
 <i style="margin-left: 50px;">MSRP / RRP : €22.99</i><br>
 </span>
 <span style="display: inline-block; margin-top: 20px;">
 <b style="margin-left: 50px;">SNAP:BIT COMBO KIT</b><br>
-<img src="{{site.baseurl}}/assets/images/combo-kit.jpg" alt="extension kit" width="393"/><br>
+<img src="{{site.baseurl}}/assets/images/combo-kit.jpg" alt="extension kit" width="372"/><br>
 <i style="margin-left: 50px;">MSRP / RRP : €44.99</i><br>
 </span>
 
